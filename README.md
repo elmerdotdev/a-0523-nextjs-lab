@@ -17,3 +17,4 @@ Demo: [https://drive.google.com/file/d/1ZnKOVWMpcPyMF8CCKgEklHoTNT31Y8KL/view?us
 - Use a Parallel Route + Intercepting Route to create the view note modal
 - Clicking on `View Note` button will open a modal but accessing the URL in the address bar will instead load the view note page
 - Make sure to re-run `npm run dev` after you create or make changes to your parallel or intercepting route. Sometimes the changes do not take effect immediately
+- Create a `loading.tsx` file for your View and Edit pages
